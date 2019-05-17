@@ -1,0 +1,11 @@
+7/47 URL
+
+http://localhost/phpmyadmin/index.php
+
+11/47 クイズ1 (カレッジで行う場合)自宅で行う場合は変えない。
+
+create table 4each_keijiban1(
+handlename varchar(255),
+title varchar(255),
+comments varchar(255)
+);
